@@ -1,1 +1,1 @@
-This is a Multi-Player Location iPhone game.
+This is a Multi-Player Location Based iPhone game.
