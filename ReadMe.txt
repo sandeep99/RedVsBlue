@@ -1,1 +1,5 @@
-This is a Multi-Player Location Based iPhone game.
+-(void)hello
+{
+
+gajendara;
+}
